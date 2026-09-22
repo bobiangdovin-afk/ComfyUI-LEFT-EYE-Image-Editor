@@ -1,0 +1,10 @@
+[project]
+name = "comfyui-left-eye-image-editor"
+version = "1.0.0"
+description = "A fully local multi-layer image editor for ComfyUI"
+requires-python = ">=3.10"
+
+[tool.comfy]
+PublisherId = "left-eye"
+DisplayName = "LEFT-EYE-Image-Editor"
+Icon = ""
